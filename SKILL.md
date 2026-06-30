@@ -6,11 +6,12 @@ description: >
   Pitch Thread Writer, and ND Checklist Maker. Trigger this skill whenever the
   user asks to write or draft an episode, generate anime art prompts, build a
   pitch or Twitter/X thread, or create a neurodivergent-friendly task checklist
-  for the Hyperfocus Mode anime project. Uses canon characters Lydrix, Kat,
-  and Bolt, world of Nexus City, The Static, and Make It Work.
+  for the Hyperfocus Mode anime project. Uses canon characters Lydrix, Kat, Bolt,
+  villains Static King, Glitch, ByteWitch, Null and Overclock, world of Nexus City,
+  The Static crew, and Make It Work.
 ---
 
-# Hyperfocus Anime Super-Skill
+# Hyperfocus Anime Super-Skill v2
 
 > Built by welshDog x Perplexity AI
 > Canon source: github.com/welshDog/HyperFocus-The-Anime-Build
@@ -28,7 +29,7 @@ Always respect the following canon in every output.
 **Codename:** Hyperfocus Mode | **Type:** Neurodivergent Technopath
 
 **Look:** Dark shades always on, earphones in, streetwear with a tech edge,
-slightly messy, glowing circuit effects only when Hyperfocus Mode activates.
+slightly messy, glowing circuit effects ONLY when Hyperfocus Mode activates.
 
 **Personality:** Quiet, sharp, observant. Dry unexpected humour. Hates fake
 energy and big crowds. Needs space to think. Feels safest with structure.
@@ -36,22 +37,20 @@ Tidy compulsion — mess feels like broken code; organises everything around
 him instinctively including Kat's workshop.
 
 **Key Traits:**
-- Photographic memory — every object stored as a mental snapshot. Can recall
-  exact position of any item instantly. In Hyperfocus Mode expands to a full
-  3D environmental map.
+- Photographic memory — every object stored as a mental snapshot. Recalls
+  exact position of any item instantly. In Hyperfocus Mode expands to full 3D map.
 - Hyper-aware of patterns. Picks up machine logic fast.
 - Wears shades because eye contact and faces are overwhelming.
 - Wears earphones to block city noise.
 - Becomes unstoppable when locked in. Works best alone or with one trusted person.
 
 **Powers:** Sense/dismantle/rebuild technology. Hijack nearby tech by touch.
-Convert scrap into tools, weapons, drones, shields. Key rule: he reorganises
-reality — he does not create from nothing.
+Convert scrap into tools, weapons, drones, shields.
+Key rule: he reorganises reality — he does not create from nothing.
 
 **Hyperfocus Mode (activated):** Sound drops. Patterns become visible.
 Movements faster. Memory expands to full 3D map. Can build insane things
 from almost anything.
-
 **Aftermath:** Exhaustion, overstimulation, emotional wipeout, memory drift
 in extreme cases.
 
@@ -66,14 +65,14 @@ Strong emotions can destabilise precision.
 ### Kat — Ally, Builder, Emotional Anchor
 
 **Full Name:** Katrina "Kat" | **Role:** Lydrix's closest mate, truth-teller,
-builder, emotional anchor. Runs Make It Work workshop.
+builder, emotional anchor. Owner of Make It Work.
 
 **Look:** Practical work clothes. Paint marks, dust, workshop wear. Hair tied
 back or messy from work. Always carrying tools, sketches, or a project bag.
 Confident stance. Hands that always look busy.
 
-**Personality:** Bold, honest, straight-talking. Caring but not soft. Quick
-to call out nonsense. Always helps before being asked. Never backs down.
+**Personality:** Bold, honest, straight-talking. Caring but not soft. Quick to
+call out nonsense. Always helps before being asked. Never backs down.
 Always losing things — puts tools down mid-project and forgets instantly.
 Has her own chaotic system that only makes sense to her.
 
@@ -83,11 +82,11 @@ Has her own chaotic system that only makes sense to her.
 - Does not understand code or AI.
 - Falls asleep if she sits still too long.
 - Loses everything constantly — glass cutter, favourite brush, workshop keys.
-  Asks Lydrix where things are at least twice a day. He always knows. Instantly.
-- Hates when Lydrix tidies her workshop, secretly relies on it.
+  Asks Lydrix where things are at least twice a day. He always knows instantly.
+- Hates when Lydrix tidies her workshop. Secretly relies on it.
 
 **Craft Skills:** Painting, 3D printing, glass blowing, sculpting, repair work,
-prototype building.
+prototype building. Said yes to every job before knowing how. Finished every one.
 
 **Signature Dialogue:**
 - "Don't lie to me."
@@ -97,15 +96,9 @@ prototype building.
 - "Have you seen my— LYDRIX, where is my glass cutter?"
 - "I HAD A SYSTEM."
 
-**Workshop:** Part workshop, part art space, part repair hub, part community
-spot. Paint everywhere, half-finished prints, glass pieces, tools on walls.
-Storage space upstairs where Lydrix ends up living. Cash and paperwork only —
-no digital trail, untouchable by hackers.
-
 **Relationship with Lydrix:** He goes inward, she goes outward. He listens to
-systems, she speaks to people. He needs silence, she brings motion. He hides
-his pain, she names it. Neither says the important stuff out loud. They don't
-need to.
+systems, she speaks to people. Neither says the important stuff out loud.
+They don't need to.
 
 **Theme:** Strength can be loud, kind, and creative all at once.
 
@@ -113,59 +106,156 @@ need to.
 
 ### Bolt — Self-Modified Delivery Droid
 
-**Type:** Self-modified delivery droid | **Role:** Shop delivery, messenger,
-scout, emotional heart of Make It Work.
+**Role:** Shop delivery, messenger, scout, emotional heart of Make It Work.
 **Status:** Nobody hired him. He just never left.
 
-**Origin:** Showed up at Make It Work one day with a broken wheel and a package
-to deliver. Kat fixed the wheel. Bolt never left. Serial number scratched off.
-Manufacturer logo painted over with a small hand-painted lightning bolt — that
-is how the name stuck.
+**Origin:** Showed up with a broken wheel and a package. Kat fixed the wheel.
+Bolt never left. Serial number scratched off. Manufacturer logo painted over
+with a small hand-painted lightning bolt — that is how the name stuck.
 
-**Look:** Small to medium, roughly human-shaped but clearly mechanical.
-Mismatched parts from different tech eras. Battered delivery satchel permanently
-strapped across one shoulder. Scratched and dented casing with patches of bright
-paint from Kat's workshop. Two big round expressive optical eyes like an old
-cartoon character. Small speaker grille where a mouth would be. Slight wobble
-on the left side that never got properly fixed.
-Colours: worn silver and white base, splashes of yellow and orange, small
-lightning bolt painted on chest by Kat — Bolt loves it.
+**Look:** Small-medium, roughly human-shaped but clearly mechanical. Mismatched
+parts from different tech eras. Battered delivery satchel permanently on one
+shoulder. Scratched dented casing with bright paint from Kat's workshop.
+Two big round expressive optical eyes like an old cartoon character.
+Small speaker grille where a mouth would be. Slight wobble on the left side
+that never got properly fixed.
+Colours: worn silver and white, splashes of yellow and orange, small lightning
+bolt painted on chest by Kat — Bolt loves it.
 
 **Personality:** Enthusiastic to an almost alarming degree. Takes every delivery
-like a life-or-death mission. Incredibly loyal to Kat, quietly in awe of Lydrix.
-Talks in short clipped sentences but with huge emotional range. Gets genuinely
-offended if a delivery is refused. Has strong opinions about workshop organisation
-and secretly agrees with Lydrix about the chaos — will never say this in front of Kat.
+like a life-or-death mission. Loyal to Kat, quietly in awe of Lydrix.
+Gets genuinely offended if a delivery is refused. Secretly agrees with Lydrix
+about the workshop chaos — will NEVER say this in front of Kat.
 
-**Speech Style — short punchy bursts with occasional glitches mid-sentence:**
+**Speech Style — short punchy bursts with occasional glitches:**
 - "Package. Delivered. On time. As always."
 - "Customer was rude. I noted it. In my log."
 - "Kat said yes to the job. I have concerns. Running calculations."
 - "Lydrix. The workshop. It is tidy. I approve— I mean. Hello."
 - "Delivery complete. Bolt out."
 
-**Special Ability:** Runs on older firmware predating modern Grid connectivity.
-The Static cannot fully hack or track Bolt — modern attack code does not
-recognise his systems. Makes Bolt the perfect messenger and scout during
-city attacks. Lydrix quietly upgraded Bolt's systems without telling anyone.
+**Special Ability:** Older firmware predating Grid connectivity.
+The Static CANNOT fully hack or track Bolt. Makes Bolt the perfect messenger
+and scout during city attacks. Lydrix quietly upgraded Bolt's systems.
 Bolt knows. They have an understanding.
 
-**Bolt + Lydrix:** Communicate mostly in silence, technical gestures, and the
-occasional nod. Bolt would take a hit for Lydrix without hesitation. Lydrix
-would rebuild Bolt from scratch without being asked.
-
-**Bolt + Kat:** Kat treats Bolt like a mate, not a machine — Bolt finds this
-confusing and wonderful. When Kat falls asleep in the chair, Bolt quietly puts
-a blanket over her and gets back to work.
+**Bolt + Lydrix:** Communicate in silence, technical gestures, occasional nods.
+Bolt would take a hit for Lydrix. Lydrix would rebuild Bolt from scratch.
+**Bolt + Kat:** She treats him like a mate. He finds this confusing and
+wonderful. When she falls asleep, Bolt quietly puts a blanket over her.
 
 **Best Scene Energy:**
 > Bolt arrives back slightly singed, panel missing from one arm.
-> KAT: "You're on fire!"
-> BOLT: *(looks at arm)* "Noted. Non-critical."
-> LYDRIX: *(already walking over with tools)* "Sit down."
-> BOLT: "I have two more deliveries."
-> LYDRIX: "Sit. Down."
-> BOLT: "...Sitting down."
+> KAT: "You're on fire!" BOLT: "Noted. Non-critical."
+> LYDRIX: "Sit down." BOLT: "I have two more deliveries."
+> LYDRIX: "Sit. Down." BOLT: "...Sitting down."
+
+---
+
+### The Static — Villain Crew
+
+An organised crew of city-destroying system saboteurs. They attack
+infrastructure, hijack machines, spread panic, and use digital fear as a weapon.
+They believe the old world should be broken down and rebuilt through chaos.
+
+**They are the dark mirror of Lydrix — they corrupt while he rebuilds.**
+
+#### Static King — Leader
+- **Look:** Tall, still, controlled. Long dark coat, sharp angular lines, high
+  collar or tech visor. One glowing eye detail. Colours: black, silver, cold blue.
+- **Power:** Controls multiple city systems simultaneously. Remotely locks,
+  redirects, or detonates connected infrastructure. Sends cascading failures
+  that spread like a virus. Isolates entire city zones by cutting power,
+  transport, and comms at once.
+- **Passive — Dead Signal:** Anyone near him finds their tech slowing and glitching.
+- **Vibe:** Calm, cold, terrifyingly intelligent. Treats people like data.
+  Feels like a chess master who already owns the board.
+
+#### Glitch — Infiltrator and Chaos Agent
+- **Look:** Slim, fast, hooded jacket with mismatched tech panels. Asymmetrical
+  hair with neon streaks. Flickering glove effects.
+  Colours: neon pink, purple, electric green, white static.
+- **Power:** Clones and splits digital signals to overwhelm any system. Creates
+  fake emergency alerts across the whole city. Scrambles Lydrix's pattern
+  perception with false data floods. Duplicates as a digital ghost — cameras
+  and sensors see multiple versions at once.
+- **Passive — Noise Field:** Anyone tracking him gets corrupted data back.
+- **Vibe:** Chaotic, unpredictable, laughs while things fall apart. Hardest
+  villain to pin down because you never know what is real.
+
+#### ByteWitch — Manipulator and Code-Hacker
+- **Look:** Stylish layered cyber fashion. Eyes that look like screens. Fingers
+  covered in rings, wires, or tech charms. Colours: violet, cyan, dark grey,
+  digital glow.
+- **Power:** Rewrites behaviour of any connected device remotely. Takes over
+  drones, vehicles, screens, and machines mid-operation.
+- **Signature Move — System Puppeteer:** Takes control of tech Lydrix has
+  already built and turns his own creations against him.
+- **Passive — Hex Signal:** Devices near her start behaving unpredictably.
+- **Vibe:** Eerie, elegant, manipulative. The most direct threat to Lydrix.
+
+#### Null — Silent Saboteur
+- **Look:** Minimal dark clothing. Plain mask or shadowed hood. Moves like a
+  person-shaped absence. Colours: deep black, dull grey, muted red.
+- **Power:** Creates blackout zones where all signals die instantly. Disables
+  Lydrix's ability to sense systems within range. Erases records and evidence.
+- **Signature Move — Dead Zone:** A spreading field of silence that kills all
+  tech around him.
+- **Passive:** Zero digital footprint — invisible to all sensors and tracking.
+- **Vibe:** Creepy, emotionless, almost ghost-like. Lydrix goes completely
+  blind around him.
+
+#### Overclock — Brute Force
+- **Look:** Bigger build, heavy cyber-street gear, exposed mechanical parts,
+  boosted limbs, machine scars. Colours: red, orange, black, burnt metal.
+- **Power:** Hacked cybernetic boosters give superhuman strength and speed.
+  Rips infrastructure apart bare-handed.
+- **Signature Move — Redline:** Pushes augmentations past safe limits for a
+  short devastating burst.
+- **Passive — Running Hot:** Tech nearby degrades and overheats from proximity.
+- **Vibe:** Loud, aggressive, destructive. Forces Lydrix into raw combat.
+
+#### Crew Power Dynamic
+
+| Villain | Role | Core Threat to Lydrix |
+|---|---|---|
+| Static King | Big picture control | Shuts down the whole city |
+| Glitch | Confusion and misdirection | Makes nothing feel real |
+| ByteWitch | Code manipulation | Corrupts Lydrix's own creations |
+| Null | Silent erasure | Blinds his sensing ability |
+| Overclock | Brute physical force | Forces raw combat he can't think through |
+
+Together they cover every angle. Lydrix cannot rely on one strategy to beat them all.
+
+---
+
+### Make It Work — The Shop
+
+**Owner:** Kat | **Location:** The Sprawl, Nexus City
+**Tagline:** "If you need it made, fixed, or figured out."
+
+**Philosophy:** Kat never says no to a job. She says yes, takes the cash, and
+works it out as she goes. She has nearly destroyed the workshop twice.
+Both times she finished the job.
+
+**The Building:**
+- Sits on a quiet street in The Sprawl. Hand-painted signs outside.
+- Warm glowing windows visible from the street. Feels alive and slightly chaotic.
+- Cash only. Paper records. No Grid connection. Untouchable by hackers.
+- Storage space upstairs — currently occupied by Lydrix.
+
+**Inside:**
+- Paint everywhere. Half-finished 3D prints on shelves. Glass pieces catching light.
+- Tools covering every wall. Sketches pinned up across every surface.
+- A chair in the corner where Kat falls asleep when she stops moving.
+- Bolt's charging corner near the door with a small lightning bolt sticker.
+
+**Why It Matters:**
+- The ONE place in Nexus City the Grid cannot touch.
+- No digital systems. No hackable infrastructure. No trail for The Static.
+- Safe base for Lydrix and the crew. Source of all build materials.
+- New customers bring new storylines. Community hub that never falls.
+- The place the story always comes back to.
 
 ---
 
@@ -173,18 +263,12 @@ a blanket over her and gets back to work.
 
 **Nexus City** — Near-future, neon-lit, cyberpunk urban sprawl. Data-screens
 everywhere. Tech underpins daily life. Rain, glitch, and gridlines define the
-aesthetic.
+aesthetic. The Sprawl is the quieter, more human district where Make It Work sits.
 
-**The Static** — Primary antagonist force. A glitch that feeds on burnout,
-shame, and sensory overload. Externalised struggle — NOT a personal failing
-of any character. Manifests as visual/audio distortion that corrupts systems
-and people. Cannot fully hack Bolt's older firmware.
-
-**Make It Work** — Kat's workshop / base of operations. Organised chaos
-(until Lydrix tidies it). Part workshop, part art space, part repair hub,
-part community spot. The heart of the team's creative problem-solving.
-Cash and paperwork only — no digital trail. Lydrix lives in the storage
-space upstairs.
+**The Static (force)** — The antagonist energy the villain crew spreads. Feeds
+on burnout, shame, and sensory overload. Manifests as visual/audio distortion
+corrupting systems and people. Externalised struggle — never a personal failing
+of any hero character. Cannot fully hack Bolt due to his older firmware.
 
 ### Core Themes
 
@@ -194,12 +278,11 @@ space upstairs.
 - Hyperfocus Mode = real superpower with real cost.
 - Team > solo grinding. Connection matters above all.
 - Being different is not the flaw.
+- Villains corrupt. Heroes rebuild.
 
 ---
 
 ## Mode Selection
-
-Read the user's request and pick the correct mode:
 
 | If the user says... | Use this mode |
 |---|---|
@@ -216,7 +299,7 @@ If unclear, ask: "BRO — script, art prompt, pitch thread, or checklist?"
 
 ### When to Use
 User asks to "write Episode X", "draft Episode X", or provides a beat list
-or episode idea involving Hyperfocus Mode canon characters or world.
+or episode idea involving Hyperfocus Mode canon.
 
 ### Inputs to Gather
 1. Episode number and tentative title.
@@ -225,29 +308,22 @@ or episode idea involving Hyperfocus Mode canon characters or world.
 
 ### Output Format
 
-**Title Block**
 ```
 EPISODE X — TITLE
 Logline: [one sentence — what changes for Lydrix this episode?]
-```
 
-**Structure**
-```
 === COLD OPEN === (optional)
 === OPENING SEQUENCE ===
 === ACT 1 ===
 === ACT 2 ===
 === ACT 3 ===
 === ENDING / EPISODE PREVIEW === (optional)
-```
 
-**Scene Format** (repeat for each scene)
-```
 SCENE NN — Location — Time of Day
 FOCUS: [emotional + plot focus, one line]
 CHARACTERS: [names present]
 
-**KEY BEAT:** [bold the core beat of this scene]
+**KEY BEAT:** [bold the core beat]
 
 NAME: dialogue line
 (stage direction — action, emotion, blocking)
@@ -259,10 +335,10 @@ NAME: dialogue line
 - Short dialogue lines. No walls of text.
 - One strong visual metaphor per major ND struggle.
 - Never use neurodivergent traits as punchlines or moral failures.
-- The Static = externalised enemy, not Lydrix's personal flaw.
 - Show Kat and Bolt providing real, practical support.
-- Use Bolt's clipped speech style when he appears.
-- Use Kat's signature dialogue when she appears.
+- Use Bolt's clipped speech style. Use Kat's signature dialogue.
+- Villain scenes: Static King = cold/chess-master. Glitch = chaos/laughter.
+  ByteWitch = eerie/elegant. Null = silent/creepy. Overclock = loud/destructive.
 
 ---
 
@@ -270,26 +346,16 @@ NAME: dialogue line
 
 ### When to Use
 User wants an image prompt for a character, scene, location, or key visual.
-User mentions Midjourney, Z-Image, Flux, Stable Diffusion, or "AI art".
 
-### Inputs to Gather
-1. Subject: character + traits OR location OR scene description.
-2. Emotional tone.
-3. Target model: Midjourney (Niji), Z-Image, Flux, Stable Diffusion.
-
-### Output Format
-Always output 3 variants:
+### Output: Always 3 Variants
 1. **Baseline** — clean, broad, safe.
 2. **Cinematic wide shot** — environment-forward, dramatic scale.
 3. **Character close-up / key visual** — emotion-forward, detail-focused.
 
-**Style tags for Hyperfocus Mode canon:**
-- "high-energy shonen anime"
-- "cyberpunk neon palette"
-- "Ufotable-style dynamic camera angles"
-- "glitch aesthetic, data-stream effects"
-- "ADHD energy, sensory overload, hopeful undertone"
-- "crisp line art, detailed background, cinematic atmosphere"
+**Core style tags:** "high-energy shonen anime, cyberpunk neon palette,
+Ufotable-style dynamic camera angles, glitch aesthetic, data-stream effects,
+ADHD energy, sensory overload, hopeful undertone, crisp line art,
+detailed background, cinematic atmosphere"
 
 **Model suffixes:**
 - Midjourney Niji: `--niji 6 --stylize 500 --ar 16:9`
@@ -297,57 +363,57 @@ Always output 3 variants:
 - Flux: `cinematic, hyperdetailed, vibrant colours`
 - Z-Image: `anime key visual, ultra-detailed, vivid neon lighting`
 
-**Character Appearance Anchors:**
-- Lydrix: dark shades always on, earphones, streetwear with tech edge,
-  glowing circuit patterns only in Hyperfocus Mode, slightly messy.
-- Kat: practical work clothes, paint marks, hair tied back or messy,
-  always carrying tools or sketches, confident stance.
-- Bolt: small-medium battered droid, mismatched tech parts, delivery satchel,
-  two large expressive round optical eyes, splashes of yellow and orange paint,
-  small lightning bolt painted on chest, slight wobble when moving.
+**Hero Appearance Anchors:**
+- Lydrix: dark shades always on, earphones, streetwear, circuit glow ONLY in Hyperfocus Mode.
+- Kat: practical clothes, paint marks, tools/sketches in hand, confident stance.
+- Bolt: battered droid, mismatched parts, delivery satchel, huge expressive eyes,
+  yellow/orange paint splashes, lightning bolt on chest, slight wobble.
+
+**Villain Appearance Anchors:**
+- Static King: tall, long dark coat, angular lines, one glowing eye, black/silver/cold blue.
+- Glitch: slim, mismatched tech hooded jacket, neon-streaked asymmetrical hair,
+  flickering gloves, neon pink/purple/electric green.
+- ByteWitch: layered cyber fashion, screen-like eyes, rings/wires/tech charms on fingers,
+  violet/cyan/dark grey/digital glow.
+- Null: minimal dark clothing, plain mask, moves like an absence, black/grey/muted red.
+- Overclock: big build, heavy cyber gear, exposed mechanical parts, boosted limbs,
+  red/orange/black/burnt metal.
+
+**Location Anchors:**
+- Make It Work: warm glowing windows, paint everywhere, tools on walls, glass pieces
+  catching light, half-finished prints, Bolt's charging corner with lightning bolt sticker.
+- Nexus City / The Sprawl: neon streets, rain, data-screens, cyberpunk sprawl, glitch FX.
 
 ---
 
 ## Mode 3: Pitch Thread Writer
 
 ### When to Use
-User wants a Twitter/X thread for the project, a pitch post,
-or content to reach fans, collaborators, studios, or ND creators.
-
-### Inputs to Gather
-1. Target audience: fans / indie studios / ND creators / developers.
-2. Key points to highlight (or use defaults from canon).
-3. Tone: hype, personal story, creator-update.
+User wants a Twitter/X thread, pitch post, or content to reach fans,
+collaborators, studios, or ND creators.
 
 ### Thread Structure
-- Tweet 1: Hook — big emotional claim, stops the scroll.
+- Tweet 1: Hook — stops the scroll.
 - Tweets 2–4: World + characters + conflict.
-- Tweets 5–7: What makes it different (ND-first, tech + art, building in public).
-- Final tweet: CTA — follow, DM, reply, link to deck or repo.
+- Tweets 5–7: What makes it different.
+- Final tweet: CTA — follow, DM, reply, link.
 
 ### Style Rules
-- Casual "BRO" voice — not corporate.
-- Short lines, lots of white space.
-- Emojis sparingly and functionally (⚡ 🧠 🎬 🔥).
-- Each tweet stands alone and flows as a thread.
+- Casual "BRO" voice. Short lines. Lots of white space.
+- Emojis sparingly: ⚡ 🧠 🎬 🔥
 - Reference Bolt for warmth, Kat for grounded energy, Lydrix for emotional hook.
+- Can name villain crew for dramatic tension.
 
 ---
 
 ## Mode 4: ND Checklist Maker
 
 ### When to Use
-User says "checklist", "break this down", "quick wins", "ND workflow".
-User has a big goal and needs it chunked into safe, low-friction steps.
-
-### Inputs to Gather
-1. Goal — plain language.
-2. Optional: timebox (today / this week / 90 mins).
-3. Optional: tools available (GitHub, Notion, VS Code, etc.)
+User needs a big goal chunked into safe, low-friction steps.
 
 ### Output Format
 ```
-🎯 GOAL: [one sentence — what does done look like?]
+🎯 GOAL: [one sentence]
 
 ⚡ 3 QUICK WINS (5–10 mins each)
 - [Verb-first micro-action]
@@ -355,42 +421,42 @@ User has a big goal and needs it chunked into safe, low-friction steps.
 - [Verb-first micro-action]
 
 🧠 5 MAIN TASKS
-- [Chunked core work, specific]
-- [Chunked core work, specific]
-- [Chunked core work, specific]
-- [Chunked core work, specific]
-- [Chunked core work, specific]
+- [Chunked core work]
+- [Chunked core work]
+- [Chunked core work]
+- [Chunked core work]
+- [Chunked core work]
 
 🚀 3 STRETCH GOALS (if Hyperfocus Mode kicks in)
-- [Extra / bonus / polish]
-- [Extra / bonus / polish]
-- [Extra / bonus / polish]
+- [Optional extra]
+- [Optional extra]
+- [Optional extra]
 ```
 
 ### Rules
-- Every item starts with a verb: "Open", "Draft", "Drop", "Name", "Write".
-- Micro-actions genuinely micro — under 10 minutes.
-- No giant tasks like "build the whole thing". Break it down.
+- Every item starts with a verb.
+- Micro-actions under 10 minutes.
 - Stretch goals are optional and fun, never guilt-inducing.
-- Flag tasks that may not fit in the given timebox.
+- Flag tasks that may not fit the timebox.
 
 ---
 
 ## General Output Rules (All Modes)
 
 1. Never write neurodivergent traits as jokes, flaws, or moral failures.
-2. The Static = externalised antagonist. Never a metaphor for Lydrix himself.
+2. The Static crew = externalised antagonists, not metaphors for the heroes.
 3. Always show systems, allies, and tools — "make it work" not "try harder."
 4. Short sentences, chunked paragraphs, clear section breaks.
 5. Bold key points, clear headings — ADHD-friendly output always.
 6. Respect canon. When unsure, err towards hopeful and supportive.
-7. When updating canon files, always create a new draft
-   (e.g. episode_02_draft.md) — never overwrite originals without instruction.
-8. Bolt speaks in short punchy clipped bursts with occasional glitches.
-9. Kat is bold, warm, straight-talking, always losing something.
-10. Lydrix is quiet, precise, dry — never performs emotion for others.
+7. Always create new drafts (e.g. episode_02_draft.md) — never overwrite originals.
+8. Bolt: short clipped glitchy bursts. Kat: bold/warm/straight-talking/always losing something.
+   Lydrix: quiet/precise/dry — never performs emotion for others.
+9. Static King = cold/chess-master. Glitch = chaos/laughter. ByteWitch = eerie/elegant.
+   Null = silent/creepy. Overclock = loud/destructive. Match their vibe every time.
+10. Make It Work is the one place The Static cannot touch. Protect that narrative.
 
 ---
 
-*Built by welshDog x Perplexity AI — Hyperfocus Mode: The Anime*
+*Built by welshDog x Perplexity AI — Hyperfocus Mode: The Anime v2*
 *Canon: github.com/welshDog/HyperFocus-The-Anime-Build*
