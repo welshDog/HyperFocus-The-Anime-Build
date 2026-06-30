@@ -11,6 +11,8 @@ Ready to use in Midjourney, Leonardo AI, Ideogram, Adobe Firefly, or any anime-s
 - Add **"concept art, multiple angles"** for turnaround sheets
 - Use **Midjourney** or **Leonardo AI** for best anime style output
 - Keep character reference images consistent across prompts for better scene building
+- Add **"--ar 9:16"** for portrait character shots
+- Add **"--ar 16:9"** for wide scene and location shots
 
 ---
 
@@ -19,16 +21,19 @@ Ready to use in Midjourney, Leonardo AI, Ideogram, Adobe Firefly, or any anime-s
 ### Standard Look
 ```
 Anime character design, full body portrait. Young male technopath, early 20s, lean build. Wearing dark streetwear with glowing circuit seam details. Dark tech shades covering eyes. Earphones in. Hands in pockets. Quiet, guarded expression. Neon city background at night. Cyberpunk anime style. Sharp linework, cinematic lighting, cool blue and dark tones. Studio Trigger aesthetic.
+--ar 9:16 --style anime
 ```
 
 ### Hyperfocus Mode Activated
 ```
 Anime character full body, young male technopath in hyperfocus state. Dark shades glowing electric blue. Hands outstretched, surrounded by floating metal fragments, circuit patterns, and holographic system maps. Scrap metal pieces assembling mid-air around him. Sound wave lines fading around his head. Expression intense and focused. Dark city background. Cyberpunk anime style, dynamic pose, neon blue and white energy effects. Studio Trigger aesthetic.
+--ar 9:16 --style anime
 ```
 
 ### Character Sheet
 ```
 Anime character sheet, white background, multiple angles. Young male technopath, early 20s. Dark streetwear with glowing circuit seams. Dark tech shades. Earphones. Lean build. Front, side, and back view. Expression sheet showing calm, focused, hyperfocus mode activated. Cyberpunk anime style, cool blue and dark tones.
+--ar 16:9 --style anime
 ```
 
 ---
@@ -38,21 +43,47 @@ Anime character sheet, white background, multiple angles. Young male technopath,
 ### Standard Look
 ```
 Anime character design, full body portrait. Young woman, confident strong build. Practical workshop clothing, sleeves rolled up. Paint marks and workshop dust on clothes. Hair tied back loosely. Strong posture, direct eye contact, slight smirk. Carrying a tool or small 3D printed object. Warm workshop background with tools on walls and art pieces visible. Anime style, warm lighting, orange and earthy tones. Slice of life meets cyberpunk aesthetic.
+--ar 9:16 --style anime
 ```
 
 ### Working in Her Shop
 ```
 Anime scene, young woman crafter working in a cluttered creative workshop. Paint, 3D printed objects, glass pieces, tools everywhere. She is mid-build, confident and focused. Warm light from above. Shelves of experiments behind her. Cosy but chaotic energy. Anime style, detailed background, warm orange and amber tones.
-```
-
-### Asleep on a Chair
-```
-Anime scene, young woman in workshop clothing fast asleep on a chair mid-scene. Tools and half-finished projects around her. Peaceful expression. Warm workshop lighting. Slightly comic but endearing. Anime slice of life style, warm amber tones.
+--ar 16:9 --style anime
 ```
 
 ### Character Sheet
 ```
 Anime character sheet, white background, multiple angles. Young woman, confident build. Workshop clothes with paint marks. Hair tied back. Front, side, and back view. Expression sheet showing bold, caring, blunt, and laughing. Warm colour palette, orange and earthy tones.
+--ar 16:9 --style anime
+```
+
+---
+
+## Bolt — Delivery Droid
+
+### Standard Look
+```
+Anime character design, full body portrait, white background. Small to medium height delivery robot, roughly human shaped but clearly mechanical. Mismatched parts from different eras of technology, one arm looks slightly newer than the other. Battered worn delivery satchel permanently strapped across one shoulder. Scratched and dented metallic casing with patches of bright orange and yellow paint splashed on by hand. A small hand-painted lightning bolt symbol on the chest. Two large round expressive cartoon-like optical eyes showing warmth and enthusiasm. Small speaker grille where a mouth would be. Scuffed boots painted orange to match. Slight endearing wobble stance on the left side. Worn silver and white base colour with orange and yellow paint patches throughout. Anime character sheet style, clean linework, warm charming design, expressive and loveable, professional anime concept art key visual.
+--ar 9:16 --style anime
+```
+
+### In Action Delivery Scene
+```
+Anime character scene, small delivery robot mid-run through a cyberpunk city street at night. Roughly human shaped, mismatched mechanical parts, battered delivery satchel bouncing on shoulder, large expressive round optical eyes wide with focus and determination. Orange and yellow paint patches on scratched silver casing, lightning bolt on chest. Moving fast with a slight wobble, package tucked securely under one arm. Neon city street background, rain-slicked pavement, cool blue city light. Anime action style, dynamic movement lines, warm charming character energy against cool cyberpunk background, professional anime key visual.
+--ar 16:9 --style anime
+```
+
+### Blanket Scene
+```
+Anime scene, small delivery robot standing quietly beside a worn armchair in a warm cluttered workshop. A young woman in workshop clothes is fast asleep in the chair, head tilted sideways, completely out. The robot is gently placing a soft blanket over her with careful mechanical hands. Large round expressive eyes looking down at her with warmth. Warm amber workshop lighting, tools and art pieces all around, cosy chaotic background. Anime slice of life style, emotionally warm and tender moment, Studio Ghibli warmth, soft golden lighting.
+--ar 16:9 --style anime
+```
+
+### Character Sheet
+```
+Anime character sheet, white background, multiple angles. Small delivery robot, mismatched mechanical parts, battered satchel, large expressive round eyes, lightning bolt on chest, orange and yellow paint patches on silver casing. Front, side, and back view. Expression sheet showing enthusiastic, determined, concerned, and warmly happy. Worn silver, orange and yellow palette.
+--ar 16:9 --style anime
 ```
 
 ---
@@ -62,11 +93,7 @@ Anime character sheet, white background, multiple angles. Young woman, confident
 ### Standard Look
 ```
 Anime villain character design, full body portrait. Tall imposing male figure, calm and cold expression. Long dark coat with sharp angular lines. High tech collar partially covering lower face. One glowing blue eye visible through a sleek dark visor. Standing still, commanding presence. Dark city background with corrupted grid lines. Cyberpunk anime style, dark and silver tones, cold blue glow. Menacing silhouette.
-```
-
-### Character Sheet
-```
-Anime villain character sheet, white background, multiple angles. Tall male, long dark coat, angular design, tech visor, one glowing eye. Front, side, and back view. Expression sheet showing cold, calculating, and commanding. Black, silver, and cold blue colour palette.
+--ar 9:16 --style anime
 ```
 
 ---
@@ -76,11 +103,7 @@ Anime villain character sheet, white background, multiple angles. Tall male, lon
 ### Standard Look
 ```
 Anime character design, full body. Young chaotic figure, slim and fast-looking. Mismatched hooded jacket with tech panel patches. Asymmetrical hair with neon pink and electric green streaks. Gloves with flickering screen-like light patterns. Laughing expression, unpredictable energy. Background full of fragmented signals and static visual noise. Cyberpunk anime style, neon pink, purple, and electric green colour palette.
-```
-
-### Character Sheet
-```
-Anime character sheet, white background, multiple angles. Slim chaotic figure, mismatched hooded jacket, asymmetrical neon streaked hair, flickering gloves. Front, side, and back view. Expression sheet showing laughing, chaotic, and mischievous. Neon pink, purple, electric green palette.
+--ar 9:16 --style anime
 ```
 
 ---
@@ -90,11 +113,7 @@ Anime character sheet, white background, multiple angles. Slim chaotic figure, m
 ### Standard Look
 ```
 Anime villain character design, full body. Young woman, stylish and eerie. Layered cyber fashion coat. Sleek hair with metallic clip accents. Eyes that look like glowing screens with code reflections. Fingers covered in rings and delicate wires. Expression calm and calculating. Background of floating code and hijacked drone screens. Cyberpunk anime style, violet, cyan, and dark grey colour palette. Elegant but dangerous.
-```
-
-### Character Sheet
-```
-Anime villain character sheet, white background, multiple angles. Young woman, layered cyber coat, sleek metallic hair, screen-like glowing eyes, wire rings on fingers. Front, side, and back view. Expression sheet showing calm, manipulative, and eerie. Violet, cyan, dark grey palette.
+--ar 9:16 --style anime
 ```
 
 ---
@@ -104,11 +123,7 @@ Anime villain character sheet, white background, multiple angles. Young woman, l
 ### Standard Look
 ```
 Anime character design, full body. Minimal dark figure, slim and almost invisible. Fitted black clothing with no decoration. Face half covered by a plain dark mask. Hood casting shadow over upper face. Standing completely still. No glow, no bright colours. Background dissolving into static and signal death. Anime style, deep black, dull grey and muted red tones. Unsettling, ghost-like presence.
-```
-
-### Character Sheet
-```
-Anime character sheet, white background, multiple angles. Minimal slim figure, fitted black clothing, plain dark mask, shadowed hood. Front, side, and back view. Expression sheet mostly masked, showing only eyes: blank, cold, absent. Deep black, dull grey, muted red palette.
+--ar 9:16 --style anime
 ```
 
 ---
@@ -118,64 +133,72 @@ Anime character sheet, white background, multiple angles. Minimal slim figure, f
 ### Standard Look
 ```
 Anime villain character design, full body. Larger aggressive male figure, heavy build. Heavy cyber-street gear with exposed mechanical arm parts, cables, and boosted limbs. Machine scars visible on skin. Scuffed heavy boots. Smug aggressive expression. Heat distortion effect around his body. Cracked street ground beneath him. Cyberpunk anime style, red, orange, black and burnt metal colour palette. Explosive, physical energy.
+--ar 9:16 --style anime
 ```
 
-### Character Sheet
+---
+
+## The Static — Group Lineup
+
 ```
-Anime villain character sheet, white background, multiple angles. Large heavy male, cyber-street armour, exposed mechanical limbs, machine scars, heavy boots. Front, side, and back view. Expression sheet showing aggressive, smug, and redline rage. Red, orange, black, burnt metal palette.
+Anime villain group key visual, five characters standing in a dramatic wide horizontal lineup against a dark corrupted cyberpunk city skyline at night. Centre: tall imposing male in long angular dark coat, dark visor with one cold glowing blue eye, completely still. Left of centre: elegant young woman in layered violet cyber coat, long straight hair with metallic clips, glowing cyan eyes, calm cold smile. Far left: slim chaotic figure in mismatched patched hoodie, wild asymmetrical neon pink and green streaked hair, wide grin. Right of centre: minimal slim figure in plain matte black, dark mask, deep hood, blank cold eyes. Far right: large heavy figure in cyber-street gear, exposed mechanical arms, machine scars, smug aggressive stance. Each in their signature colour palette. Consistent professional anime key visual style, dramatic moody lighting, Studio Trigger aesthetic.
+--ar 16:9 --style anime
 ```
 
 ---
 
 ## Locations
 
-### Nexus City Overview
+### Make It Work Exterior
 ```
-Anime cityscape, wide establishing shot. Dense futuristic city at night. Neon signs, smart transit lines, crowded streets, holographic adverts. Every surface connected to a glowing city grid network. Beautiful but overwhelming. Cyberpunk anime background art, blue and neon colour palette, Studio Ghibli meets Ghost in the Shell aesthetic.
-```
-
-### The Core District
-```
-Anime background art. Busy central city district at night. Towering buildings, Grid network lines glowing across every surface. Crowds moving fast, screens everywhere, smart transit above. Bright, chaotic, overwhelming energy. Cyberpunk anime style, cool blue and neon palette.
+Anime environment background art, small independent workshop on a quiet cyberpunk city street at night. Hand-painted sign reading Make It Work above the door. Warm amber and orange glowing light through windows, tools and art pieces visible inside. Potted plants near the door. Cool blue neon cyberpunk city behind it, warm shop glowing like a beacon. Studio Ghibli warmth meets cyberpunk city, rich warm amber against cool blue neon.
+--ar 16:9 --style anime
 ```
 
-### The Sprawl
+### Make It Work Interior
 ```
-Anime background art. Quieter outer city neighbourhood. Less polished buildings, community murals, small independent shops. Warm street lights. Less Grid presence. Feels lived-in and human. Cyberpunk anime style, warm amber against cool city blue.
-```
-
-### Kat's Workshop Exterior
-```
-Anime background art. Small independent workshop on a quiet Sprawl street. Hand-painted signs, warm glowing windows. Tools and art visible through the window. Slightly messy but full of life and creativity. Contrast with the cold digital city around it. Warm orange and amber light against cool blue city background. Anime environmental art style.
+Anime interior background art, inside a warm creative workshop at night. Central workbench covered in tools, 3D printed figures, paint jars, wire and half-built gadgets. Walls packed with pegboards of tools, wooden shelves overflowing with handmade objects and experiments. Paint splatters on wooden floors and walls. A worn armchair in the corner with a blanket. A small neat corner near the door with a lightning bolt painted on the wall. Large front windows showing cool blue neon cyberpunk city street outside, warm golden amber glow inside. Wooden ceiling beams with hanging tools. Studio Ghibli interior style, warm amber and orange tones, extremely detailed anime environment art.
+--ar 16:9 --style anime
 ```
 
-### Kat's Workshop Interior
+### Nexus City Aerial
 ```
-Anime background art, interior scene. Cluttered creative workshop. Paint everywhere, 3D printed objects on shelves, glass pieces catching light, tools on walls, sketches pinned up, new experiments on every surface. Warm overhead lighting. Cosy, chaotic, alive. Anime detailed interior style, warm orange and amber palette.
+Anime aerial birds-eye establishing shot of a vast cyberpunk city at night. Massive futuristic metropolis stretching to the horizon. Glowing blue and cyan Grid network lines pulsing across every rooftop and street like a nervous system. Bright neon Core district blazing at the centre. Elevated rail transit lines with light streaks. Flying drones in organised paths. Holographic adverts floating between towers. Rain falling through neon glow. Storm clouds reflecting city light. Streets far below with tiny vehicles and people. Deep blue, cyan and purple neon palette with warm amber at city edges. Ghost in the Shell meets Akira city scale. Cinematic wide anime background art, incredibly detailed.
+--ar 16:9 --style anime
+```
+
+### Nexus City Street Level
+```
+Anime background art, street level view in a dense cyberpunk city at night. Tall buildings on both sides with Grid network lines glowing on every surface. Crowds of people moving fast, neon signs and holographic adverts everywhere, smart transit overhead. Rain-slicked pavement reflecting neon. Overwhelming, busy, loud visual energy. Cool blue, cyan and neon palette. Ghost in the Shell street level aesthetic.
+--ar 16:9 --style anime
 ```
 
 ### The Undercroft
 ```
-Anime background art. Underground tunnel network beneath the city. Old crumbling infrastructure mixed with hijacked tech and illegal server setups. Dark, damp, and dangerous. Faint corrupted Grid signal flickering on broken screens. The Static's home territory. Cyberpunk anime style, dark green, black, and corrupted neon palette.
-```
-
-### Lydrix's Upstairs Space
-```
-Anime background art, interior. Minimal sparse room above a workshop. A makeshift tech setup built from scrap parts. Cabling, salvaged screens, and circuit boards arranged with quiet precision. One window looking out at the city. Lonely but focused energy. Cyberpunk anime style, cool blue and dim lighting.
+Anime background art, underground tunnel network beneath a cyberpunk city. Old crumbling infrastructure mixed with hijacked tech and illegal server setups. Dark, damp, dangerous. Faint corrupted Grid signal flickering on broken screens. Cables everywhere, makeshift lighting. Dark green, black and corrupted neon palette. Oppressive and threatening atmosphere.
+--ar 16:9 --style anime
 ```
 
 ---
 
-## Key Scene Prompts
+## Key Scenes
 
 ### Opening Scene — Lydrix Stops The Attack
 ```
 Anime action scene. Young male technopath standing in a chaotic city street at night. Shades glowing electric blue. Hands raised, surrounded by floating scrap metal assembling into a repair construct. City systems failing around him, screens flickering, people panicking. He is completely calm and focused in the centre of it all. Dynamic composition, energy lines, neon blue and white power effects. Cyberpunk anime style, Studio Trigger aesthetic.
+--ar 16:9 --style anime
 ```
 
 ### First Meeting — Lydrix and Kat
 ```
-Anime scene. Young male in dark tech streetwear with glowing shades standing outside a warm workshop doorway at night. Young woman in workshop clothes stands in the doorway, arms crossed, slight smirk. Contrast between cool blue city behind him and warm amber light from inside the shop. Quiet, meaningful moment. Anime slice of life meets cyberpunk style.
+Anime scene. Young male in dark tech streetwear with glowing shades standing outside a warm workshop doorway at night. Young woman in workshop clothes stands in the doorway, arms crossed, slight smirk. Contrast between cool blue city behind him and warm amber light from inside the shop. Quiet meaningful moment. Anime slice of life meets cyberpunk style.
+--ar 16:9 --style anime
+```
+
+### Hyperfocus Mode Full Activation
+```
+Anime hero moment, young male technopath in full hyperfocus state. Dark shades blazing electric blue. Arms wide, surrounded by enormous floating construction of assembled scrap metal, circuit lines, holographic system maps, and glowing energy. City rebuilding itself around him in real time. Expression completely locked in, no emotion, pure focus. Massive dynamic composition, blue and white energy explosion outward. Studio Trigger peak animation moment aesthetic.
+--ar 16:9 --style anime
 ```
 
 ---
